@@ -1,0 +1,16 @@
+PODS:
+  - "UIKit+Extensions+CustomComponents (1.0.0)"
+
+DEPENDENCIES:
+  - "UIKit+Extensions+CustomComponents (from `../UIKit+Extensions+CustomComponents`)"
+
+EXTERNAL SOURCES:
+  "UIKit+Extensions+CustomComponents":
+    :path: "../UIKit+Extensions+CustomComponents"
+
+SPEC CHECKSUMS:
+  "UIKit+Extensions+CustomComponents": 970808dc9aae0dd1239d199747110b66ae3a2d47
+
+PODFILE CHECKSUM: 5fb2878ed5f1dc41d797707077ab44da213940f1
+
+COCOAPODS: 1.9.1
